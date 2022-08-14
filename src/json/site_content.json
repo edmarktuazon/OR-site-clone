@@ -1,0 +1,187 @@
+{
+	"navigation_data": [
+		{
+			"id": 1,
+			"name": "Store",
+			"path": "/store"
+		},
+		{
+			"id": 2,
+			"name": "Tour",
+			"path": "/tour/"
+		},
+		{
+			"id": 3,
+			"name": "Music",
+			"path": "/music/"
+		},
+		{
+			"id": 4,
+			"name": "Newsletter",
+			"path": "/newsletter/"
+		}
+	],
+	"home_content_data": [
+		{
+			"id": 1,
+			"home_bg": "home-banner-sour.jpg",
+			"path": "/album/",
+			"name": "sour-banner-image"
+		},
+		{
+			"id": 2,
+			"home_bg": "home-banner-collection.jpg",
+			"path": "/shop/",
+			"name": "collection-banner-image"
+		},
+		{
+			"id": 3,
+			"home_bg": "home-banner-disney+.jpg",
+			"path": "/dh2u/",
+			"name": "driving-home-2-u-banner-image"
+		}
+	],
+	"bio_section_data": [
+		{
+			"id": 1,
+			"bio_title": "BIO",
+			"bio_bg": "bio-bg.png",
+			"bio_image": "side-left-bio-img.png",
+			"bio_description": "wow!!! It has now been a year since SOUR came out. What an incredible year it has been! So many of my wildest, most outlandish dreams have come true this year & I’m so beyondddd thankful for everyone who helped make it happen. I’ve gotten to do the most magnificient things & meet the most magnificent people through music. Not a day goes by where I’m not grateful for all the opportunities these songs have given me. I’ve grown so much & learned so much & had the most fun.Thank you endlessly to everyone who has listened to SOUR. Y'all really hanged my whole life love 5ever,Liv",
+			"name": "bio-image"
+		}
+	],
+	"music_section_data": [
+		{
+			"id": 1,
+			"music_image": "sour-album.jpg",
+			"primary_title": "Latest release",
+			"secondary_title": "Sour",
+			"name": "sour-image",
+			"music_link": "https://oliviarodrigo.lnk.to/SOUR"
+		},
+		{
+			"id": 2,
+			"music_image": "driver's-license.jpg",
+			"secondary_title": "Driver's License",
+			"name": "driver's-license-image",
+			"music_link": "https://smarturl.it/driverslicense"
+		},
+		{
+			"id": 3,
+			"music_image": "deja-vu.jpg",
+			"secondary_title": "Deja Vu",
+			"name": "dejavu-image",
+			"music_link": "https://oliviarodrigo.lnk.to/dejavuWE"
+		}
+	],
+	"music_secondary_section_data": [
+		{
+			"id": 1,
+			"music_bg": "driving-home-2-u-img.jpg",
+			"music_description": "OLIVIA RODRIGO - BRUTAL (FROM: DRIVING HOME TO YOU)",
+			"name": "driving-home-2-u-image",
+			"music_link": "https://youtu.be/zHMpcUojLMU"
+		},
+		{
+			"id": 2,
+			"music_bg": "traitor-official-vid.jpg",
+			"music_description": "OLIVIA RODRIGO - TRAITOR (OFFICIAL VIDEO)",
+			"name": "traitor-image",
+			"music_link": "https://youtu.be/CRrf3h9vhp8"
+		},
+		{
+			"id": 3,
+			"music_bg": "good-4-u-official-vid.jpg",
+			"music_description": "OLIVIA RODRIGO - GOOD 4 U (OFFICIAL VIDEO)",
+			"name": "good-4-u-image",
+			"music_link": "https://youtu.be/gNi_6U5Pm_o"
+		},
+		{
+			"id": 4,
+			"music_bg": "deja-vu-official-vid.jpg",
+			"music_description": "OLIVIA RODRIGO - DEJA VU (OFFICIAL VIDEO)",
+			"name": "dejavu-image",
+			"music_link": "https://youtu.be/cii6ruuycQA"
+		},
+		{
+			"id": 5,
+			"music_bg": "dl-official-vid.jpg",
+			"music_description": "OLIVIA RODRIGO - DRIVER'S LICENSE (OFFICIAL VIDEO)",
+			"name": "driver's-license-image",
+			"music_link": "https://youtu.be/ZmDBbnmKpqQ"
+		},
+		{
+			"id": 6,
+			"music_bg": "brutal-official-vid.jpg",
+			"music_description": "OLIVIA RODRIGO - BRUTAL (OFFICIAL VIDEO)",
+			"name": "brutal-image",
+			"music_link": "https://youtu.be/OGUy2UmRxJ0"
+		}
+	],
+	"newsletter_section_data": [
+		{
+			"id": 1,
+			"newsletter_bg": "newsletter-bg.jpg",
+			"newsletter_title": "NEWSLETTER",
+			"name": "newsletter-image"
+		}
+	],
+	"one_year_album_page": [
+		{
+			"id": 1,
+			"album_image": "sour-album.jpg",
+			"name": "sour-album-image"
+		},
+		{
+			"id": 2,
+			"title": "1 year of",
+			"album_image": "sour-logo-text.png",
+			"name": "sour-tour-image"
+		}
+	],
+	"tour_page": [
+		{
+			"id": 1,
+			"sour_tour_image": "sour-tour.png",
+			"name": "sour-tour-image"
+		}
+	],
+	"music_page": [
+		{
+			"id": 1,
+			"music_image": "sour-album.jpg",
+			"title": "Sour",
+			"name": "sour-album-image",
+			"music_link": "https://oliviarodrigo.lnk.to/SOUR"
+		},
+		{
+			"id": 2,
+			"music_image": "deja-vu.jpg",
+			"title": "Deja Vu",
+			"name": "dejavu-image",
+			"music_link": "https://oliviarodrigo.lnk.to/dejavuWE"
+		},
+		{
+			"id": 3,
+			"music_image": "good-4-u.jpg",
+			"title": "Good 4 U",
+			"name": "good-4-u-image",
+			"music_link": "https://youtu.be/gNi_6U5Pm_o"
+		},
+		{
+			"id": 4,
+			"music_image": "driver's-license.jpg",
+			"title": "Driver's License",
+			"name": "driver's-license-image",
+			"music_link": "https://smarturl.it/driverslicense"
+		}
+	],
+	"newsletter_page": [
+		{
+			"id": 1,
+			"newsletter_image": "newsletter-bg.jpg",
+			"newsletter_title": "NEWSLETTER"
+		}
+	]
+}
